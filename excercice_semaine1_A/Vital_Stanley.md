@@ -1,2 +1,2 @@
 # Stanley Olivier Vital
-![photo](handsome_man.jpg)
+![photo](img/handsome_man.jpg)
