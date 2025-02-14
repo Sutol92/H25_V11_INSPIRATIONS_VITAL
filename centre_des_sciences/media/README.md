@@ -1,1 +1,1 @@
-Photos et vidéos
+Voici les photos et les vidéos
