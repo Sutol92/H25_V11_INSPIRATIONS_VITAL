@@ -14,7 +14,7 @@ Le spectacle est le point culminant de la section banquet. Ce spectacle a été 
 
 <p  align="center">
     <img src="/centre_des_sciences/media/projector.png" width="500px">
-    <img src="/centre_des_sciences/media/plate.jpg" width=300px>
+    <img src="/centre_des_sciences/media/plate_.jpg" width=375px>
 </p>
 
 Selon moi, le spectacle du banquet était assez bon. J'ai adoré l'immersion de l'expérience, pouvoir sentir toutes ces odeurs différentes m'a amené dans un tout nouveau monde. Par contre, j'aurais préféré que ce soit une expérience à plus petite échelle, parce qu'avec la taille de la salle, on pouvait sentir les odeurs de l'extérieur.
