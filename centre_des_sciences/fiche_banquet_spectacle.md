@@ -9,3 +9,5 @@ Dans le cadre du cours d'œuvre et dispositifs multimédias, le 31 janvier 2025,
 <p  align="center">
     <img src="/centre_des_sciences/media/spectacle.jpg" width="500px">
 </p>
+
+Pour rendre cette expérience le plus immersif possible, une longue table avec des fausses assiètes est installé au milieur de la pièce. Devant chacune de ces assiettes, il y a un petit trou qui envoi des odeurs qui immitent l'odeur des aliments qui sont projeter sur l'assiette. 
