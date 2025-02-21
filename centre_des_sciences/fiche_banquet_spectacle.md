@@ -16,4 +16,4 @@ Le spectacle est le climax de la section banquet. Il dure une dizaine de minutes
     <img src="/centre_des_sciences/media/projector.png" width="500px">
 </p>
 
-Selon moi, le spectacle du banquet était assez bon. J'ai adoré l'immersion de l'expérience, pouvoir sentir toutes ces odeurs différente m'a amené dans un tout nouveau monde. Par contre j'aurais préféré que ce soit une expérience à plus petite échelle, parce que avec la taille de la sale on pouvait sentir les odeurs de l'extérieur.
+Selon moi, le spectacle du banquet était assez bon. J'ai adoré l'immersion de l'expérience, pouvoir sentir toutes ces odeurs différentes m'a amené dans un tout nouveau monde. Par contre, j'aurais préféré que ce soit une expérience à plus petite échelle, parce qu'avec la taille de la salle, on pouvait sentir les odeurs de l'extérieur.
