@@ -1,1 +1,1 @@
-Expositions interactives des finissants
+Expositions des projets interactifs des finissants
