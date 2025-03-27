@@ -4,20 +4,24 @@
 *Logo de résonance - capture d'écran*
 
 <h2> Expositions </h2>
-1. [C0n-Du8](#condu8)
-2. [Internature](#inter)
-3. [Etheria](#etheria)
-4. [Fuga](#fuga)
-5. [Prismatica](#prisma)
-6. [Luminaturia](#lumin)
-7. [Arcadia](#arcadia)
+1. CON DU8 <br>
+2. Internature <br>
+3. Etheria <br>
+4. Fuga <br>
+5. Prismatica <br>
+6. Luminaturia <br>
+7. Arcadia <br>
 
 ---
 <h2> Informations </h2>
 
+![image_resonance](./medias/belgacon.jpg)
+*Stanley 19/03/2025 - Olivier Leclerc Leconte*
 
-
+Cette visite à duré du 18 au 21 mars au grand studio du collège montmorency. C’était une exposition temporaire et intérieure.
+<div id="condu8">
 <h2> C0n-Du8 </h2>
+</div>
 
 Cette exposition 
 
