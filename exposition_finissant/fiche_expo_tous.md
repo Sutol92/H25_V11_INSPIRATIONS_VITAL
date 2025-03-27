@@ -1,4 +1,4 @@
-<h1> Exposition de tous les projets finissants </h1> 
+<h1> Exposition des projets finissants - Resonance - </h1> 
 
 <h2> C0n-Du8 </h2>
 
