@@ -1,5 +1,17 @@
 <h1> Exposition des projets finissants - Resonance - </h1> 
 
+![image_resonance](./medias/resonance.jpg)
+*Logo de résonance - capture d'écran*
+
+<h2> Expositions </h2>
+1. [C0n-Du8](#condu8)
+2. [Internature](#inter)
+3. [Etheria](#etheria)
+4. [Fuga](#fuga)
+5. [Prismatica](#prisma)
+6. [Luminaturia](#lumin)
+7. [Arcadia](#arcadia)
+
 <h2> C0n-Du8 </h2>
 
 Cette exposition 
