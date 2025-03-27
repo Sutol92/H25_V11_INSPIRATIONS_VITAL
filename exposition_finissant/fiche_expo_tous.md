@@ -12,6 +12,11 @@
 6. [Luminaturia](#lumin)
 7. [Arcadia](#arcadia)
 
+---
+<h2> Informations </h2>
+
+
+
 <h2> C0n-Du8 </h2>
 
 Cette exposition 
