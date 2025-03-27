@@ -22,6 +22,8 @@ Cette visite à duré du 18 au 21 mars au grand studio du collège montmorency. 
 
 <h2> C0n-Du8 </h2>
 
+![image_resonance](./medias/condu8.jpg)
+
 Cette exposition 
 
 <h2> Internature </h2> 
