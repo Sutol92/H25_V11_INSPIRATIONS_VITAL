@@ -44,3 +44,7 @@ Cette oeuvre était composée de 3 écrans qui projetais chacun un arbre différ
 <img src="./medias/Fuga_haut_parleur.jpg"> <br>
   <i> Vue des haut-parleurs - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
+<p align="center">
+<img src="./medias/Fuga_mannette.jpg"> <br>
+  <i> Vue des mannettes - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
+</p>
