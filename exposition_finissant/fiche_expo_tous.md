@@ -194,7 +194,7 @@ Présenté en 2025
 
 Luminatura est une oeuvre composée d'une plaque de métal qui crée des effets de lumière ou autre sur le mur lorsqu'on la touche avec des sons naturels qui sortent des haut-parleurs. <br>
 <p align="center">
-<img src="./medias/plantation_condu8.jpg"> <br>
+<img src="./medias/plantation_luminatura.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
 </p> 
 
