@@ -206,3 +206,30 @@ Luminatura m'a beaucoup impressionné avec l'ambiance. En effet, les nombreux ef
 
 
 <h2> Arcadia </h2> 
+
+<p align="center">
+<img src="./medias/"> <br>
+  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
+</p>
+
+<h3> Installation </h3>
+
+Réalisé par: 
+Anton Nikulin
+Dominic Yale
+William Beauvais <br>
+Présenté en 2025
+
+<h3> Description </h3>
+
+Etheria est un jeu vidéo qui utilise des sortes de "pions" pour intéragir avec l'environment du jeu. Le jeu est visible grâce à un projecteur qui projete l'image sur sur une table.  <br>
+<p align="center">
+<img src="./medias/plantation_"> <br>
+  <i> Plantation donnée par les membres de l'équipe</i>
+</p> 
+
+<h3> Mon opinion </h3>
+
+J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu relativement simple a comprendre et pouvoir le tester avec des amis c'était réelement un moment incroyable.
+
+[Github de l'équipe](https://cousi-cousa.github.io/Arcadia/#/)
