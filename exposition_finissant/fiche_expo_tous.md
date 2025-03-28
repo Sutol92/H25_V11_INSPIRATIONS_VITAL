@@ -161,7 +161,7 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles après chaque mouvement de la sphère à l'aide de projecteurs aux alentours de la serre. <br>
+Prismatica est une oeuvre ou on dessine avec un marquer de couleur dur un petit tableau blanc. Le dessin que nous faisons sera ensuite afficher sur un écran grâce au capteur en haut du tableau. En même temps de nous afficher notre dessin on l'entend également avec les écouteurs. <br>
 <p align="center">
 <img src="./medias/plantation_internature.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
