@@ -15,7 +15,7 @@ Abdel Ali Djeral
 Daniel Dezemma
 Matis Labelle
 Tristan Khadka
-Yavuz-Selim Gucluer
+Yavuz-Selim Gucluer <br>
 Réalisé en 2025
 <p align="center">
 <img src="./medias/equipe_fuga.jpg"> <br>
