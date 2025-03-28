@@ -101,7 +101,7 @@ Yavuz-Selim Gucluer
 
 <h3> Description </h3>
 
-Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont suspendu du plafond et sur ces écrans ont voit des abres qui prennent forment de façon différente pour chaque personnes qui fait des sons différents avec les mannettes et des haut-parleurs.<br>
+Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont suspendu du plafond et sur ces écrans ont voit des abres qui prennent forme de façon différente pour chaque personnes qui fait des sons différents avec les mannettes et des haut-parleurs.<br>
 <p align="center">
 <img src="./medias/plantation_fugu.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
