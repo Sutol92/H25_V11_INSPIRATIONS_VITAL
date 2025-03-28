@@ -132,7 +132,7 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs. Un joueur entre dans la zone du vélo, monte dessus et tente de gagner la course contre les autres adversaires. <br>
+Etheria est un jeu vidéo qui utilise des sortes de "pions" pour intéragir avec l'environment du jeu. Le jeu est visible grâce à un projecteur qui projete l'image sur sur une table.  <br>
 <p align="center">
 <img src="./medias/plantation_condu8.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
