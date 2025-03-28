@@ -19,5 +19,5 @@ Yavuz-Selim Gucluer <br>
 Réalisé en 2025
 <p align="center">
 <img src="./medias/equipe_fuga.jpg"> <br>
-  <i> Vue de l'oeuvre - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
+  <i> Vue de l'équipe - 18/03/2025 - prise par Pablo Pereira</i>
 </p>
