@@ -73,8 +73,8 @@ Présenté en 2025
 
 Internature est une oeuvre consituée d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles aux alentours de la serre avec chaque mouvement de la sphère. <br>
 <p align="center">
-<img src="./medias/plantation_condu8.jpg"> <br>
-  <i> Plantation donnée par les membres de l'équipe</i>
+<img src="./medias/plantation_internature.jpg"> <br>
+  <i> Plantations donnée par les membres de l'équipe</i>
 </p> 
 
 [Github de l'équipe](https://gearshift-games.github.io/Web-C0N-DU8/#/)
