@@ -22,9 +22,24 @@ Cette visite à duré du 18 au 21 mars au grand studio du collège montmorency. 
 
 <h2> C0n-Du8 </h2>
 
-<img src="./medias/condu8.jpg">
+<p align="center">
+<img src="./medias/condu8_velo.jpg"> <br>
+  <i> Vue de l'oeuvre - 19/03/2025 - prise par Pablo Pereira</i>
+</p>
 
-Cette exposition 
+<h3> Installation </h3>
+
+Réalisé par: 
+Alexandre Gervais
+Ian Corbin
+Jérémy Roy-Coté
+Keven Malric
+Samuel Desmeules-Voyer <br>
+Présenté en 2025
+
+<h3> Description </h3>
+
+Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs.
 
 <h2> Internature </h2> 
 
