@@ -72,4 +72,6 @@ Cette oeuvre a attiré mon attention presque immédiatement avec les décoration
 
 <h2>Ce que j'ai aimé</h2>
 
-J'ai adoré le 
+J'ai adoré la combinaison de la musique calme avec la croissance de l'arbre.
+
+<h2>Ce que je voudrais améliorer </h2>
