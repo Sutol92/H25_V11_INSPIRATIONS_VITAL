@@ -18,7 +18,7 @@
 ![image_devant_expo](./medias/belgacon.jpg)
 *Stanley 19/03/2025 - Olivier Leclerc Leconte*
 
-Cette visite à duré du 18 au 21 mars au grand studio du collège montmorency. C’était une exposition temporaire et intérieure.
+Cette visite a duré du 18 au 21 mars au grand studio du collège montmorency. C’était une exposition temporaire et intérieure.
 
 <h2> C0n-Du8 </h2>
 
