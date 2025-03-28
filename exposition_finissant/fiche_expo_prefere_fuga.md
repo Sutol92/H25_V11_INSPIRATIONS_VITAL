@@ -24,4 +24,5 @@ Réalisé en 2025
 
 <h2>Description</h2>
 
+Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont suspendu du plafond et sur ces écrans on voit des abres qui prennent forme de façon différente pour chaque personnes qui fait des sons différents avec les mannettes et des haut-parleurs.
 
