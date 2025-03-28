@@ -69,3 +69,6 @@ Poteaux pour les télévisions
 <h2>Mon expérience</h2>
 
 Cette oeuvre a attiré mon attention presque immédiatement avec les décorations de forêts qui s'intégrait très bien avec les écrans même si le contraste de technologie et nature devrait être flagrant. C'était aussi étrangement satisfaisant voir le résultat de mon arbre grandir avec la musique, c'était quelque chose de très calmant.
+
+<h2>Ce que j'ai aimé</h2>
+
