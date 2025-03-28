@@ -77,7 +77,7 @@ Internature est une oeuvre consituée d'une sphère a l'intérieur d'une petite 
   <i> Plantations donnée par les membres de l'équipe</i>
 </p> 
 
-[Github de l'équipe](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+[Github de l'équipe](https://tprangers.github.io/internature/#/)
 
 <h2> Fuga </h2> 
 
