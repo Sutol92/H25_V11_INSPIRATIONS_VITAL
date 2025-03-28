@@ -140,7 +140,7 @@ Etheria est un jeu vidéo qui utilise des sortes de "pions" pour intéragir avec
 
 <h3> Mon opinion </h3>
 
-Mon expérience avec le Con-Du8 était très positive, c'était mon oeuvre préférée. J'ai essayé de compléter le jeu du premier coup, mais lorsque j'ai fini ce qui me semblait être le jeu en entier, je n'avais réussi qu'un niveau. Après avoir réalisé ma défaite, j'ai aimé l'oeuvre encore plus, parce que j'ai vraiment pu sentir que le but de cette expérience est de se pousser au dela de ses limites tout en s'amusant et ils accomplissent cet objectif haut la main.
+J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu relativement simple a comprendre et pouvoir le tester avec des amis c'était réelement un moment incroyable.
 
 [Github de l'équipe](https://ethereal-creators.github.io/Etheria/#/)
 
