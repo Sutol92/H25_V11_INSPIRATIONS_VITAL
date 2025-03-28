@@ -6,7 +6,7 @@
 <h2> Expositions </h2>
 1. CON DU8 <br>
 2. Internature <br>
-3. Etheria <br>
+3. Fuga <br>
 4. Fuga <br>
 5. Prismatica <br>
 6. Luminaturia <br>
@@ -45,6 +45,10 @@ Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des 
   <i> Plantation donnée par les membres de l'équipe</i>
 </p> 
 
+<h3> Mon opinion </h3>
+
+Mon expérience avec le Con-Du8
+
 [Github de l'équipe](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 
@@ -75,9 +79,9 @@ Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des 
 
 [Github de l'équipe](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
-<h2> Etheria </h2> 
-
 <h2> Fuga </h2> 
+
+<h2> Etheria </h2> 
 
 <h2> Prismatica </h2> 
 
