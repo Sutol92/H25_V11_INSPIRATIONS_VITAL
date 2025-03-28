@@ -39,7 +39,7 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs. <br>
+Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs. Un joueur entre dans la zone du vélo, monte dessus et tente de gagner la course contre les autres adversaires. <br>
 <p align="center">
 <img src="./medias/plantation_condu8.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
