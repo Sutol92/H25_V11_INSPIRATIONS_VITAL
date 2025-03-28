@@ -200,7 +200,7 @@ Luminatura est une oeuvre composée d'une plaque de métal qui crée des effets 
 
 <h3> Mon opinion </h3>
 
-Mon expérience avec le Con-Du8 était très positive, c'était mon oeuvre préférée. J'ai essayé de compléter le jeu du premier coup, mais lorsque j'ai fini ce qui me semblait être le jeu en entier, je n'avais réussi qu'un niveau. Après avoir réalisé ma défaite, j'ai aimé l'oeuvre encore plus, parce que j'ai vraiment pu sentir que le but de cette expérience est de se pousser au dela de ses limites tout en s'amusant et ils accomplissent cet objectif haut la main.
+Luminatura m'a beaucoup impressionné avec l'ambiance. En effet, les nombreux effets qui me passaient devant les yeux en même temps que les sons naturels m'ont vraiment mis dans une ambiance calme.
 
 [Github de l'équipe](https://miaou-mafia.github.io/projet-luminatura/#/)
 
