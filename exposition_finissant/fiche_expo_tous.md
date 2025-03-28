@@ -71,11 +71,15 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Internature est une oeuvre consituée d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles aux alentours de la serre avec chaque mouvement de la sphère. <br>
+Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles après chaque mouvement de la sphère à l'aide de projecteurs aux alentours de la serre. <br>
 <p align="center">
 <img src="./medias/plantation_internature.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
 </p> 
+
+<h3> Mon opinion </h3>
+
+Internature était une merveilleuse expérience que je recomanderai à n'importe qui.
 
 [Github de l'équipe](https://tprangers.github.io/internature/#/)
 
