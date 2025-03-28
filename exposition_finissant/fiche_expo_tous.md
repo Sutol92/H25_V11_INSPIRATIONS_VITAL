@@ -134,7 +134,7 @@ Présenté en 2025
 
 Etheria est un jeu vidéo qui utilise des sortes de "pions" pour intéragir avec l'environment du jeu. Le jeu est visible grâce à un projecteur qui projete l'image sur sur une table.  <br>
 <p align="center">
-<img src="./medias/plantation_condu8.jpg"> <br>
+<img src="./medias/plantation_etheria.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
 </p> 
 
