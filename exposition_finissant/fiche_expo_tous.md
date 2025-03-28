@@ -24,7 +24,7 @@ Cette visite a duré du 18 au 21 mars au grand studio du collège montmorency. C
 
 <p align="center">
 <img src="./medias/condu8_velo.jpg"> <br>
-  <i> Vue de l'oeuvre - 19/03/2025 - prise par Pablo Pereira</i>
+  <i> Vue de l'oeuvre - 18/03/2025 - prise par Pablo Pereira</i>
 </p>
 
 <h3> Installation </h3>
@@ -87,7 +87,7 @@ Internature était une merveilleuse expérience que je recomanderai à n'importe
 
 <p align="center">
 <img src="./medias/fuga_ensemble.jpg"> <br>
-  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
+  <i> Vue de l'oeuvre - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
 
 <h3> Installation </h3>
@@ -103,7 +103,7 @@ Yavuz-Selim Gucluer
 
 Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles après chaque mouvement de la sphère à l'aide de projecteurs aux alentours de la serre. <br>
 <p align="center">
-<img src="./medias/plantation_internature.jpg"> <br>
+<img src="./medias/plantation_fugu.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
 </p> 
 
