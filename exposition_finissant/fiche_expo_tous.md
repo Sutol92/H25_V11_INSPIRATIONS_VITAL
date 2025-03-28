@@ -93,12 +93,11 @@ Internature était une merveilleuse expérience que je recomanderai à n'importe
 <h3> Installation </h3>
 
 Réalisé par: 
-Kenza El Harrif
-Isaac Fafard
-Delphine Grenier
-Khaly Tia Sing
-Sitmonternna Yi <br>
-Présenté en 2025
+Abdel Ali Djeral
+Daniel Dezemma
+Matis Labelle
+Tristan Khadka
+Yavuz-Selim Gucluer
 
 <h3> Description </h3>
 
