@@ -163,13 +163,13 @@ Présenté en 2025
 
 Prismatica est une oeuvre ou on dessine avec un marquer de couleur dur un petit tableau blanc. Le dessin que nous faisons sera ensuite afficher sur un écran grâce au capteur en haut du tableau. En même temps de nous afficher notre dessin on l'entend également avec les écouteurs. <br>
 <p align="center">
-<img src="./medias/plantation_internature.jpg"> <br>
+<img src="./medias/plantation_prismatica.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
 </p> 
 
 <h3> Mon opinion </h3>
 
-Internature était une merveilleuse expérience que je recomanderai à n'importe qui. Ma partie préférée de cette oeuvre était le son, parce qu'il aidait vraiment à mettre dans l'ambience et m'emmener dans leur monde. Ces sons mélangés avec les magnifiques effets visuels ont aidé à faire de cette oeuvre une expérience marquante.
+Prismatica était une expérience très plaisante. J'ai beaucoup aimé le fait que comparé aux autres projets, il vient chercher plus de créativité de la part de l'utilisateur.
 
 [Github de l'équipe](https://pootpookies.github.io/Prismatica/#/)
 
