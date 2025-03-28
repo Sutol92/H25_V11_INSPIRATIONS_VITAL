@@ -101,7 +101,7 @@ Yavuz-Selim Gucluer
 
 <h3> Description </h3>
 
-Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles après chaque mouvement de la sphère à l'aide de projecteurs aux alentours de la serre. <br>
+Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont suspendu du plafond et sur ces écrans ont voit des abres qui prennent forment de façon différente pour chaque personnes qui fait des sons différents avec les mannettes et des haut-parleurs.<br>
 <p align="center">
 <img src="./medias/plantation_fugu.jpg"> <br>
   <i> Plantations donnée par les membres de l'équipe</i>
