@@ -222,7 +222,7 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Arcadia est un vidéo mit dans une borne arcade.  <br>
+Arcadia est un jeu vidéo mit dans une borne arcade.  <br>
 <p align="center">
 <img src="./medias/plantation_acardia.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
