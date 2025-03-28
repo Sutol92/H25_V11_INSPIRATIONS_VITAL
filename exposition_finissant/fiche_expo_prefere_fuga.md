@@ -40,3 +40,7 @@ Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont sus
 <h2>Pièces Techniques</h2>
 
 Cette oeuvre était composée de 3 écrans qui projetais chacun un arbre différent qui était connecté a une mannette differente chacune qui était vis à vis leur écran respectif. Sur les potos qui supportait le poids des écrans il y avait également des haut-parleurs pour qu'on puisse entendre leurs sons d'ambiance. 
+<p align="center">
+<img src="./medias/Fuga_haut_parleur.jpg"> <br>
+  <i> Vue des haut-parleurs - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
+</p>
