@@ -224,12 +224,12 @@ Présenté en 2025
 
 Arcadia est un vidéo mit dans une borne arcade.  <br>
 <p align="center">
-<img src="./medias/plantation_"> <br>
+<img src="./medias/plantation_acardia.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
 </p> 
 
 <h3> Mon opinion </h3>
 
-J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu relativement simple a comprendre et pouvoir le tester avec des amis c'était réelement un moment incroyable.
+J'ai aprécier mon expérience avec Acardia, parce que c'était un jeu vidéo très simple a comprendre.
 
 [Github de l'équipe](https://cousi-cousa.github.io/Arcadia/#/)
