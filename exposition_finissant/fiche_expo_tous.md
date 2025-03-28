@@ -79,7 +79,7 @@ Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'
 
 <h3> Mon opinion </h3>
 
-Internature était une merveilleuse expérience que je recomanderai à n'importe qui.
+Internature était une merveilleuse expérience que je recomanderai à n'importe qui. Ma partie préférée de cette oeuvre était le son, parce qu'il aidait vraiment à mettre dans l'ambience et m'emmener dans leur monde. Ces sons mélangés avec les magnifiques effets visuels ont aidé à faire de cette oeuvre une expérience marquante.
 
 [Github de l'équipe](https://tprangers.github.io/internature/#/)
 
