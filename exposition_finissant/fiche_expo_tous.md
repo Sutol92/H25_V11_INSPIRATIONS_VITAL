@@ -154,11 +154,9 @@ J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu 
 <h3> Installation </h3>
 
 Réalisé par: 
-Kenza El Harrif
-Isaac Fafard
-Delphine Grenier
-Khaly Tia Sing
-Sitmonternna Yi <br>
+Ikrame Rata
+Jérémy Duverseau
+Vincent Delisle <br>
 Présenté en 2025
 
 <h3> Description </h3>
