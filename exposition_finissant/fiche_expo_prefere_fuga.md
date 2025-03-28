@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="./medias/Fuga_arbre.jpg"> <br>
-  <i> Vue de l'oeuvre - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
+  <i> Vue de l'oeuvre - 18/03/2025 - prise par Olivier Leconte Leclerc </i>
 </p>
 
 <h2> Informations </h2>
@@ -26,3 +26,9 @@ Réalisé en 2025
 
 Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont suspendu du plafond et sur ces écrans on voit des abres qui prennent forme de façon différente pour chaque personnes qui fait des sons différents avec les mannettes et des haut-parleurs.
 
+<h2>Mise en espace</h2>
+
+<p align="center">
+<img src="./medias/equipe_fuga.jpg"> <br>
+  <i> Vue de l'équipe - 18/03/2025 - prise par Pablo Pereira</i>
+</p>
