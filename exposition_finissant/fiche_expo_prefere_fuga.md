@@ -75,3 +75,5 @@ Cette oeuvre a attiré mon attention presque immédiatement avec les décoration
 J'ai adoré la combinaison de la musique calme avec la croissance de l'arbre.
 
 <h2>Ce que je voudrais améliorer </h2>
+
+Pour améliorer ce projet, je crois que je n'aurais fais qu'une seule station pour pouvoir perfectionné un seul arbre.
