@@ -147,8 +147,8 @@ J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu 
 <h2> Prismatica </h2> 
 
 <p align="center">
-<img src="./medias/internature_ensemble.jpg"> <br>
-  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
+<img src="./medias/prismatica_ensemble.jpg"> <br>
+  <i> Vue de l'oeuvre - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
 
 <h3> Installation </h3>
