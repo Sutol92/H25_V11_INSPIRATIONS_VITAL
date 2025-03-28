@@ -33,6 +33,6 @@ Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont sus
   <i> Vue de la mise en espace - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
 <p align="center">
-<img src="./medias/mise_en_espace_fuga.jpg"> <br>
+<img src="./medias/plantation_fugu.jpg"> <br>
   <i> Vue de la mise en espace - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
