@@ -173,26 +173,26 @@ Prismatica était une expérience très plaisante. J'ai beaucoup aimé le fait q
 
 [Github de l'équipe](https://pootpookies.github.io/Prismatica/#/)
 
-<h2> Luminaturia </h2> 
+<h2> Luminatura </h2> 
 
 <p align="center">
-<img src="./medias/condu8_velo.jpg"> <br>
+<img src="./medias/luminaturia_ensemble.jpg"> <br>
   <i> Vue de l'oeuvre - 18/03/2025 - prise par Pablo Pereira</i>
 </p>
 
 <h3> Installation </h3>
 
 Réalisé par: 
-Alexandre Gervais
-Ian Corbin
-Jérémy Roy-Coté
-Keven Malric
-Samuel Desmeules-Voyer <br>
+Audrey Dandurand
+Camilia Bouatmani
+Ihab Mouhajer
+Justine Rousseau
+Prethiah Rajaratnam <br>
 Présenté en 2025
 
 <h3> Description </h3>
 
-Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs. Un joueur entre dans la zone du vélo, monte dessus et tente de gagner la course contre les autres adversaires. <br>
+Luminatura est une oeuvre composée d'une plaque de métal qui crée des effets de lumière ou autre sur le mur lorsqu'on la touche avec des sons naturels qui sortent des haut-parleurs. <br>
 <p align="center">
 <img src="./medias/plantation_condu8.jpg"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
