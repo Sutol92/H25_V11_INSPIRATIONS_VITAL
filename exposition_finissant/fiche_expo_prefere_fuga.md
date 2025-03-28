@@ -29,6 +29,6 @@ Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont sus
 <h2>Mise en espace</h2>
 
 <p align="center">
-<img src="./medias/equipe_fuga.jpg"> <br>
-  <i> Vue de l'équipe - 18/03/2025 - prise par Pablo Pereira</i>
+<img src="./medias/mise_en_espace_fuga.jpg"> <br>
+  <i> Vue de la mise en espace - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
