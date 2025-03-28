@@ -86,7 +86,7 @@ Internature était une merveilleuse expérience que je recomanderai à n'importe
 <h2> Fuga </h2> 
 
 <p align="center">
-<img src="./medias/internature_ensemble.jpg"> <br>
+<img src="./medias/fuga_ensemble.jpg"> <br>
   <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
 </p>
 
