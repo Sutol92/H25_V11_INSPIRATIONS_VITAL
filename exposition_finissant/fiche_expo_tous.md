@@ -39,7 +39,14 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs.
+Le condu8 est une oeuvre constituée d'un vélo stationnaire, un projecteur des hauts-parleurs et des senseurs. <br>
+<p align="center">
+<img src="./medias/plantation_condu8.jpg"> <br>
+  <i> Plantation donnée par les membres de l'équipe</i>
+</p> 
+
+[Github de l'équipe](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
 
 <h2> Internature </h2> 
 
