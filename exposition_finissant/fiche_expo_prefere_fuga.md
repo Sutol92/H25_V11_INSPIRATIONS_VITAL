@@ -48,3 +48,20 @@ Cette oeuvre était composée de 3 écrans qui projetais chacun un arbre différ
 <img src="./medias/Fuga_mannette.jpg"> <br>
   <i> Vue des mannettes - 18/03/2025 - prise par Olivier Leconte Leclerc</i>
 </p>
+
+<h2>Haut-parleurs</h2>
+2 Haut-parleurs
+Genelec (x2)
+<h2>Accessoires pour haut-parleurs</h2>
+2 Câbles XLR
+AmazonBasics Câble XLR (x2)
+5 Rallonges électriques
+Coleman Rallonge domestique (x2)
+6 Câbles Ethernet
+Câble Ethernet Cat8 (x2)
+<h2>Matériel Vidéo</h2>
+3 Écrans
+Banq ET-0023-t
+7 Câbles HDMI
+AmazonBasics Câble HDMI (x3)
+Poteaux pour les télévisions
