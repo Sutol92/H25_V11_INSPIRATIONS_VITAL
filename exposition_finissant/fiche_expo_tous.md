@@ -146,6 +146,35 @@ J'ai beaucoup aprécier mon expérience avec Etheria, parce que c'était un jeu 
 
 <h2> Prismatica </h2> 
 
+<p align="center">
+<img src="./medias/internature_ensemble.jpg"> <br>
+  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
+</p>
+
+<h3> Installation </h3>
+
+Réalisé par: 
+Kenza El Harrif
+Isaac Fafard
+Delphine Grenier
+Khaly Tia Sing
+Sitmonternna Yi <br>
+Présenté en 2025
+
+<h3> Description </h3>
+
+Internature est une oeuvre consituée d'haut parleurs pour le son d'ambiance, d'une sphère a l'intérieur d'une petite serre qui fait pousser plusieurs plantes virtuelles après chaque mouvement de la sphère à l'aide de projecteurs aux alentours de la serre. <br>
+<p align="center">
+<img src="./medias/plantation_internature.jpg"> <br>
+  <i> Plantations donnée par les membres de l'équipe</i>
+</p> 
+
+<h3> Mon opinion </h3>
+
+Internature était une merveilleuse expérience que je recomanderai à n'importe qui. Ma partie préférée de cette oeuvre était le son, parce qu'il aidait vraiment à mettre dans l'ambience et m'emmener dans leur monde. Ces sons mélangés avec les magnifiques effets visuels ont aidé à faire de cette oeuvre une expérience marquante.
+
+[Github de l'équipe](https://pootpookies.github.io/Prismatica/#/)
+
 <h2> Luminaturia </h2> 
 
 <h2> Arcadia </h2> 
