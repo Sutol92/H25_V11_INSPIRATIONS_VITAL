@@ -109,7 +109,7 @@ Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont sus
 
 <h3> Mon opinion </h3>
 
-Internature était une merveilleuse expérience que je recomanderai à n'importe qui. Ma partie préférée de cette oeuvre était le son, parce qu'il aidait vraiment à mettre dans l'ambience et m'emmener dans leur monde. Ces sons mélangés avec les magnifiques effets visuels ont aidé à faire de cette oeuvre une expérience marquante.
+Fuga m'a beaucoup plu, le son qui sortait des haut parleurs était très calme et harmonieux et ça correspondait à l'ambiance des arbres et la nature. Mon point préféré de l'oeuvre est le fait qu'il y a une possibilité infinie d'arbre différent qui peuvent être crée.
 
 [Github de l'équipe](https://escapism-fuga.github.io/Fuga/#/)
 
