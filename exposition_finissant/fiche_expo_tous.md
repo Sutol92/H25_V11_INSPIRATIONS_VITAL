@@ -208,8 +208,8 @@ Luminatura m'a beaucoup impressionné avec l'ambiance. En effet, les nombreux ef
 <h2> Arcadia </h2> 
 
 <p align="center">
-<img src="./medias/"> <br>
-  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
+<img src="./medias/arcadia_ensemble.png"> <br>
+  <i> Vue de l'oeuvre - 18/03/2025 - prise par Mateo Rodriguez Fontaine</i>
 </p>
 
 <h3> Installation </h3>
@@ -222,7 +222,7 @@ Présenté en 2025
 
 <h3> Description </h3>
 
-Etheria est un jeu vidéo qui utilise des sortes de "pions" pour intéragir avec l'environment du jeu. Le jeu est visible grâce à un projecteur qui projete l'image sur sur une table.  <br>
+Arcadia est un vidéo mit dans une borne arcade.  <br>
 <p align="center">
 <img src="./medias/plantation_"> <br>
   <i> Plantation donnée par les membres de l'équipe</i>
