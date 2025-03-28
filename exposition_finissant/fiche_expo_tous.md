@@ -233,3 +233,15 @@ Arcadia est un jeu vidéo mit dans une borne arcade.  <br>
 J'ai aprécier mon expérience avec Acardia, parce que c'était un jeu vidéo très simple a comprendre.
 
 [Github de l'équipe](https://cousi-cousa.github.io/Arcadia/#/)
+
+---
+
+<h2> Les cours indispensables pour ces projets</h2>
+
+<h3>Conception d’une expérience multimédia</h3>
+
+Sans ce cours, aucune des oeuvres auraient pu être possible puisque les équipes n'auraient pas appris comment créer une bonne expérience multimédia. Des projets comme Fuga qui ont une idée et une éxécution spécifique, se serait impossible de réaliser ces idées.
+
+<h3>Modélisation 3D</h3>
+
+Sans ces capacités des projets comme le Con-Du8 ou le Fuga sont tout simplement impossible, parce que le projet en entier ou presque est fait en 3 dimensions.
