@@ -111,6 +111,22 @@ Fuga est un générateur d'arbre qui est totalement fascinant. 3 écran sont sus
 
 Fuga m'a beaucoup plu, le son qui sortait des haut parleurs était très calme et harmonieux et ça correspondait à l'ambiance des arbres et la nature. Mon point préféré de l'oeuvre est le fait qu'il y a une possibilité infinie d'arbre différent qui peuvent être crée.
 
+<h2> Les cours indispensables pour le projet Fuga</h2>
+
+<h3>Conception d’une expérience multimédia</h3>
+
+Sans ce cours, les créateurs de ce projet n'aurait pas appris comment créer une bonne expérience multimédia. Puisque Fuga avait une idée et une éxécution spécifique, se serait impossible de réaliser leurs idées sans ce cours.
+
+<h3>Modélisation 3D</h3>
+
+Sans ces capacités Fuga serai tout simplement impossible, parce que le projet en entier ou presque est fait en 3D.
+
+<h3>Audio 2</h3>
+
+Pour être capable d'ajouter des sons qui correspondent à l'atmosphère du projet, il faut avoir des bonnes compétences en audio.
+
+
+
 [Github de l'équipe](https://escapism-fuga.github.io/Fuga/#/)
 
 <h2> Etheria </h2> 
