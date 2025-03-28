@@ -116,18 +116,18 @@ Fuga m'a beaucoup plu, le son qui sortait des haut parleurs était très calme e
 <h2> Etheria </h2> 
 
 <p align="center">
-<img src="./medias/condu8_velo.jpg"> <br>
-  <i> Vue de l'oeuvre - 18/03/2025 - prise par Pablo Pereira</i>
+<img src="./medias/ehteria_ensemble.jpg"> <br>
+  <i> Vue de l'oeuvre - 19/03/2025 - prise par Stanley Olivier Vital</i>
 </p>
 
 <h3> Installation </h3>
 
 Réalisé par: 
-Alexandre Gervais
-Ian Corbin
-Jérémy Roy-Coté
-Keven Malric
-Samuel Desmeules-Voyer <br>
+Joshua Gonzalez-Barrera
+Maik Hamel
+Michael Un Dupré
+Pierre-Luc Proulx
+Victor Gileau <br>
 Présenté en 2025
 
 <h3> Description </h3>
