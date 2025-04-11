@@ -23,4 +23,11 @@ Le mardi 25 mars 2025, j'ai eu la chance d'assister à une conférence sur deux 
   <i> Photo de l'oeuvre shadow tuner - 2023 - prise par Obaid AlBudoor </i>
 </p>
 
-<i>Shadow Tuner</i> est une seconde sphère avec un but totalement différent de la première. La planète Terre est projetée sur la sphère pour créer une fausse planète Terre artificielle. Il y a deux versions de cette ouevre, une immense et une de taille plus petite. La version plus grande est une terre à l'envers et lorsque le visiteur passe devant la station, une ombre est crée sur la terre et une musique qui vient de la ville qui est obstruer par l'ombre commence a jouer. La plus petite oeuvre fait la même chose, mais la planète est à l'endroit.
+<i>Shadow Tuner</i> est une seconde sphère, avec un but totalement différent de la première. La planète Terre y est projetée pour créer une fausse planète Terre artificielle. Il existe deux versions de cette œuvre : une immense et une plus petite.
+La version plus grande représente une Terre à l'envers. Lorsque le visiteur passe devant la station, une ombre se projette sur la Terre, et une musique provenant de la ville obscurcie par l’ombre commence à jouer.
+La version plus petite fonctionne de la même manière, mais la planète est à l’endroit.
+
+<h2>Conclusion</h2>
+
+J’ai énormément apprécié cette conférence. La partie la plus intéressante pour moi a été d’entendre les problèmes et les difficultés auxquels ils ont dû faire face lors de l’installation.
+Ces anecdotes m’ont aidé à comprendre que l’installation de ces œuvres est un travail bien plus complexe que je ne le pensais.
