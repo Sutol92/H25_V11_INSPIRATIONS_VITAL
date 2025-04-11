@@ -15,11 +15,11 @@ Le mardi 25 mars 2025, j'ai eu la chance d'assister à une conférence sur deux 
   <i> Photo de l'oeuvre Sphere Packing Bach - 2019 - prise par Roberto Ortiz </i>
 </p>
 
-<i> Sphere Packing: Bach </i> est une sphère avec un trou à l'intérieur qui permet aux visiteurs d’y entrer. Cette œuvre a été réalisée à partir d’aluminium, de bois et d’un grand nombre de haut-parleurs. Elle vise à illustrer l’ampleur de la discographie de Johann Sebastian Bach. Les haut-parleurs diffusent toutes ses compositions, les unes après les autres, sans interrompre les morceaux précédents. Au point culminant de l’expérience, toutes les œuvres de Bach sont jouées simultanément, créant une cacophonie totale. Tous les haut-parleurs sont reliés par des câbles, et la taille de l’installation nécessite 11 kilomètres de câblage pour alimenter la sphère.
+<i> Sphere Packing: Bach </i> est une sphère avec un trou à l'intérieur qui permet aux visiteurs d’y entrer. Cette œuvre a été réalisée à partir d’aluminium, de bois et d’un grand nombre de haut-parleurs. Elle vise à illustrer l’ampleur de la discographie de Johann Sebastian Bach. Les haut-parleurs diffusent toutes ses compositions, les unes après les autres, sans interrompre les morceaux précédents. Au point culminant de l’expérience, toutes les œuvres de Bach sont jouées simultanément, créant une cacophonie totale. Tous les haut-parleurs sont reliés par des câbles, et la taille de l’installation nécessite 11 kilomètres de câblage pour alimenter la sphère qui a fait de cette exposition un cauchemar à installer.
 <h3><i>Shadow Tuner</i></h3>
 
 <p align="center">
-<img src="./medias/sphere_packing_bach.jpg"> <br>
+<img src="./medias/shadow_tuner.jpg"> <br>
   <i> Photo de l'oeuvre Sphere Packing Bach - 2019 - prise par Roberto Ortiz </i>
 </p>
 
