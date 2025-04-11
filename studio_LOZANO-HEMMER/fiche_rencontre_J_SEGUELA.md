@@ -20,7 +20,7 @@ Le mardi 25 mars 2025, j'ai eu la chance d'assister à une conférence sur deux 
 
 <p align="center">
 <img src="./medias/shadow_tuner.jpg"> <br>
-  <i> Photo de l'oeuvre Sphere Packing Bach - 2019 - prise par Roberto Ortiz </i>
+  <i> Photo de l'oeuvre shadow tuner - 2023 - prise par Obaid AlBudoor </i>
 </p>
 
 <i>Shadow Tuner</i> est une seconde sphère avec un but totalement différent de la première. La planète Terre est projetée sur la sphère pour créer une fausse planète Terre artificielle. Il y a deux versions de cette ouevre, une immense et une de taille plus petite. La version plus grande est une terre à l'envers et lorsque le visiteur passe devant la station, une ombre est crée sur la terre et une musique qui vient de la ville qui est obstruer par l'ombre commence a jouer. La plus petite oeuvre fait la même chose, mais la planète est à l'endroit.
