@@ -20,4 +20,5 @@ Crée par Anri Sala en 2017
   <i> Vue de l'oeuvre - 04/04/2025 - prise par Stanley Olivier Vital </i>
 </p>
 
-Ravel Ravel Interval est une exposition dans une grande sale avec deux projecteurs qui projete une vidéo d'une main qui joue du piano seul. Les vidéos sont projetées sur le un tissu et les tissus sont placé un en arrière de l'autre pour faire en sorte que lorsqu'on observe l'oeuvre les images semblent se superposé.
+<i>Ravel Ravel Interval</i> est une exposition dans une grande salle avec deux projecteurs qui projettent deux vidéos différentes d'une main jouant seule du piano. Les vidéos sont projetées sur des tissus, placés l’un derrière l’autre, de manière à ce que, lorsqu’on observe l’œuvre, les images semblent se superposer. Cette œuvre nous montre deux mains gauches interprétant le Piano Concerto de Maurice Ravel. L’une des mains est celle de Louis Lortie, l’autre celle de Jean-Efflam Bavouzet.
+Maurice Ravel, le compositeur de cette pièce, était un pianiste qui a été amputé de la main droite après la Première Guerre mondiale. C’est de là que vient le symbolisme de faire jouer deux mains gauches : pour lui rendre hommage, en soulignant le fait qu’il a composé cette œuvre alors qu’il ne lui restait plus qu’une seule main.
