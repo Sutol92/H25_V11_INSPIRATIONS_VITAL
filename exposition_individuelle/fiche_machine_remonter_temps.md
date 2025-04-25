@@ -5,7 +5,7 @@
   <i> Vue de l'oeuvre - 22/04/2025 - prise par  </i>
 </p>
 
-<h2>Informtations</h2>
+<h2>Informations</h2>
 
 
 
