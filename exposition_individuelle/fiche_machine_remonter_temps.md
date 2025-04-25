@@ -23,7 +23,7 @@ Crée par le centre des mémoires montréalaises en juillet 2024
 <i>La machine à remonter dans le temps</i> est un dispositif dans une grande salle avec plusieurs projecteurs qui projettent un fond sur un mur blanc. Sur ce même mur blanc plusieurs objets représantant la culture québecoise étant placé de manière aléatoire. Deux projecteurs projettent une vidéo précise sur le sujet choisi. Une table rouge avec des bouttons est située devant le mur et chaque bouttons mène a une vidéo explicative différente.
 
 <p align="center">
-<img src="./medias/"> <br>
+<img src="./medias/table.jpg"> <br>
   <i> Vue de l'oeuvre - 22/04/2025 - prise par Stanley Olivier Vital </i>
 </p>
 
