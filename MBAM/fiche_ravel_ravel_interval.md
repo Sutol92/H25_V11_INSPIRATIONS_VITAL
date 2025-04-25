@@ -5,7 +5,7 @@
   <i> Vue de l'oeuvre - 04/04/2025 - prise par Delphine Gagnon </i>
 </p>
 
-<h2>Informtations</h2>
+<h2>Informations</h2>
 
 Nous avons visité cette exposition le vendredi 4 avril 2025. C'était une expostion permanente à Montréal.
 
