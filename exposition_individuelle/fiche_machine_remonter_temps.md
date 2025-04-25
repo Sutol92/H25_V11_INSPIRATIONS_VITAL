@@ -1,17 +1,17 @@
 <h1>Centre des mémoires montréalaises </h1>
 
 <p align="center">
-<img src="./medias/"> <br>
-  <i> Vue de l'oeuvre - 22/04/2025 - prise par  </i>
+<img src="./medias/entrée.jpg"> <br>
+  <i> L'entrée du centre des mémoires montréalaises - 22/04/2025 - photo prise par La Presse </i>
 </p>
 
 <h2>Informations</h2>
 
 
 
-<h2>Ravel Ravel Interval</h2>
+<h2>Machine à remonter dans le temps</h2>
 
-Crée par Anri Sala en 2017
+Crée par le centre des mémoires montréalaises en juillet 2024
 
 
 
