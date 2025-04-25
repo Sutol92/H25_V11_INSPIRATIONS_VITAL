@@ -16,8 +16,8 @@ Crée par le centre des mémoires montréalaises en juillet 2024
 
 
 <p align="center">
-<img src="./medias/"> <br>
-  <i> Vue de l'oeuvre - 22/04/2025 - prise par Stanley Olivier Vital </i>
+<img src="./medias/moi.jpg"> <br>
+  <i> Vue du dispositif de la machine a remonter dans le temps - 22/04/2025 - prise par Delphone Gagnon </i>
 </p>
 
 <i>Ravel Ravel Interval</i> est une exposition dans une grande salle avec deux projecteurs qui projettent deux vidéos différentes d'une main jouant seule du piano. Les vidéos sont projetées sur des tissus, placés l’un derrière l’autre, de manière à ce que, lorsqu’on observe l’œuvre, les images semblent se superposer. Cette œuvre nous montre deux mains gauches interprétant le Piano Concerto de Maurice Ravel. L’une des mains est celle de Louis Lortie, l’autre celle de Jean-Efflam Bavouzet. Maurice Ravel, le compositeur de cette pièce, était un pianiste qui a été amputé de la main droite après la Première Guerre mondiale. C’est de là que vient le symbolisme de faire jouer deux mains gauches : pour lui rendre hommage, en soulignant le fait qu’il a composé cette œuvre alors qu’il ne lui restait plus qu’une seule main. Des lumières sont suspendues au plafond pour éclairer le passage au sol, et des haut-parleurs sont installés au-dessus des images projetées.
