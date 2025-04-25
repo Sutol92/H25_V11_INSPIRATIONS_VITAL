@@ -24,7 +24,7 @@ Crée par Anri Sala en 2017
 
 <p align="center">
 <img src="./medias/light.jpg"> <br>
-  <i> Vue de l'oeuvre - 04/04/2025 - prise par Stanley Olivier Vital </i>
+  <i> Vue des hauts parleurs et des lumières - 04/04/2025 - prise par Stanley Olivier Vital </i>
 </p>
 
 <h2>Appréciation</h2>
@@ -35,5 +35,5 @@ Depuis que je suis jeune, j'adore la musique et j'ai pris des cours de piano, do
 
 <p align="center">
 <img src="./medias/source.jpg"> <br>
-  <i> Vue de l'oeuvre - 04/04/2025 - prise par Stanley Olivier Vital </i>
+  <i> Crédits de l'exposition - 04/04/2025 - prise par Stanley Olivier Vital </i>
 </p>
