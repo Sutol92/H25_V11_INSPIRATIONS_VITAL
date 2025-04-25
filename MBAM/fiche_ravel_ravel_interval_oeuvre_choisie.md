@@ -20,4 +20,4 @@ Crée par Anri Sala en 2017
   <i> Vue de l'oeuvre - 04/04/2025 - prise par Stanley Olivier Vital </i>
 </p>
 
-Ravel Ravel Interval est une exposition dans une grande sale avec deux projecteurs qui projete une vidéo d'une main qui joue du piano seul. Les 2 projecteurs sont 
+Ravel Ravel Interval est une exposition dans une grande sale avec deux projecteurs qui projete une vidéo d'une main qui joue du piano seul. Les vidéos sont projetées sur le un tissu et les tissus sont placé un en arrière de l'autre pour faire en sorte que lorsqu'on observe l'oeuvre les images semblent se superposé.
