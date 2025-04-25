@@ -30,3 +30,10 @@ Crée par Anri Sala en 2017
 <h2>Appréciation</h2>
 
 Depuis que je suis jeune, j'adore la musique et j'ai pris des cours de piano, donc le sujet m'a particulièrement touché. Selon moi, l'idée est très bien pensée : la manière d'illustrer le pianiste qui ne pouvait pas jouer parfaitement sa pièce à cause de son amputation était ingénieuse.
+
+<h2>Sources</h2>
+
+<p align="center">
+<img src="./medias/source.jpg"> <br>
+  <i> Vue de l'oeuvre - 04/04/2025 - prise par Stanley Olivier Vital </i>
+</p>
