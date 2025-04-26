@@ -24,3 +24,5 @@ Cette exposition m'a beaucoup rappeler une expérience du centre des sciences ou
 
 <h2>Conclusion</h2>
 
+Mon dispositif parlait de l'histoire de montreal avec des images sur le mur.
+Allez-vous le visiter a votre tour.
